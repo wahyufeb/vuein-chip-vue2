@@ -1,6 +1,6 @@
 {
-  "name": "@wahyufeb/vuein-chips",
-  "version": "1.0.0",
+  "name": "@wahyufeb/vuein-chip",
+  "version": "0.0.1",
   "description": "",
 
   "main": "dist/vuein-chips.ssr.js",

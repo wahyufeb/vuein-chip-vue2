@@ -30,6 +30,6 @@ export default Vue.extend({
 
 <template>
   <div id="app">
-    <vuein-chips-sample v-model="value" />
+    <vuein-chips v-model="value" />
   </div>
 </template>
